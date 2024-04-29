@@ -27,7 +27,7 @@ v2.0 is the latest version cycle, with full support for festival features, and a
 v2.0 also includes optimizations, better interfaces, and more customizations. However, it's still in its pre-beta cycle, which means features aren't fully settled, and is prone to changes.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/2394425147/maipaddx?label=stable)  
-If you prefer a stable build instead, v1.1.1 is the **latest stable version**. You should use this if you prefer a long-term support experience.
+If you prefer a stable build instead, v2.0.0.pre.98.5 is the **latest stable version**. You should use this if you prefer a long-term support experience.
 
 ## Wait, is there version for iOS?
 Yes (kind of)! You can join the test at [TestFlight Group A](https://testflight.apple.com/join/rACTLjPL) or [TestFlight Group B](https://testflight.apple.com/join/ocj3yptn) or [TestFlight Group C](https://testflight.apple.com/join/CuMxZE2M).
